@@ -30,6 +30,30 @@
 
 ---
 
+### 💼 Projects Highlight
+🚀 [Predictive Analysis of Power Generation from Footsteps](#)  
+🤖 [Driving Behavior Classification using EEG Signals](#)  
+📊 [Sales Forecasting Dashboard – Power BI](#)  
+🧠 [AI-Powered Data Cleaning Assistant](#)  
+
+---
+
+### 🧠 Currently Exploring
+- Deep Learning Architectures (CNNs, RNNs, Transformers)  
+- Time-Series Classification (EEG / Sensor data)  
+- AI-Powered Workflow Automation  
+- Cloud Deployment (AWS, Streamlit, Render)  
+
+---
+
+### 🏆 Achievements
+- 🤖 Built a **WhatsApp AI Chatbot**   
+- 🧠 Certified **Data Science Expert** (Machine Learning, EDA, SQL, Power BI)  
+- 🚀 Developed a **Real-Time EEG Driving Behavior Classification** system  
+- ⚙️ Automated Excel Reporting & ETL workflows using **Python + n8n**  
+- 🥇 Completed multiple ML Projects with 85%+ model accuracy  
+
+---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hemantchauthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantchauthe" height="30" width="40" /></a>
@@ -60,17 +84,26 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="center">
+### 📊 GitHub Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemant2604&show_icons=true&theme=aura_dark&count_private=true&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hemant2604&theme=aura_dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2604&layout=compact&theme=aura_dark&hide_border=true" width="49%" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemant2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="Hemant's GitHub stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant2604&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" height="160px"/>
+</p>
 
 ---
 
-⭐️ *Exploring AI, Data & Automation to create impactful solutions!*
+---
+### 🌟 Support Me
+If my projects helped you, please consider:
+
+⭐ **Starring** my repositories  
+💬 Sharing feedback & feature ideas  
+🤝 Collaborating on open-source AI/ML projects  
+📩 Connecting with me on [LinkedIn](https://linkedin.com/in/hemant-chauthe-018bb6314)  
+
+> *Every star motivates me to build more AI tools and data automation projects!*
+
+
+
+
