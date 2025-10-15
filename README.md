@@ -86,12 +86,26 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemant2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="Hemant's GitHub stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant2604&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" height="160px"/>
-</p>
+<div align="center">
 
----
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Hemant2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF"
+          alt="Hemant's GitHub stats"
+          width="400"/>
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.demolab.com?user=Hemant2604&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
+          alt="GitHub Streak"
+          width="400"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 ### 🌟 Support Me
